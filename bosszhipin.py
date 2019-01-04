@@ -18,9 +18,9 @@ headers={
 "accept-encoding":"gzip, deflate, sdch, br",
 "accept-language":"zh-CN,zh;q=0.8",
 "cache-control":"max-age=0",
-"cookie":"__c=1542027963; __g=-; _uab_collina=154202796298517433602417; lastCity=101280600; toUrl=https%3A%2F%2Fwww.zhipin.com%2Fjob_detail%2F3787f053a1a642821XJy3tu8EVU%7E.html%3Fka%3Dsearch_list_2; JSESSIONID=""; __l=l=%2Fwww.zhipin.com%2F&r=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D1ByVxtND-49vUpRJRvS0Po9gunMnKguSJGZMD-xo2sFNwHVf7A3ON8b-JzVC0OWy%26wd%3D%26eqid%3Df07185b3000de890000000035be97ab1; __a=78936834.1520067371.1539326745.1542027963.101.10.17.72; Hm_lvt_194df3105ad7148dcf2b98a91b5e727a=1542027963; Hm_lpvt_194df3105ad7148dcf2b98a91b5e727a=1542029725",
+"cookie":"****",
 "upgrade-insecure-requests":"1",
-"user-agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+"user-agent":"****",
 }
 
 #r=requests.get(url=url, params=param, headers=headers)
